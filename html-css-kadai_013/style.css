@@ -152,11 +152,7 @@ sp用のスタイル
     margin: 80px 0 30px 20px;
   } 
 
-  /* ナビゲーションのリンクの装飾設定 */
  
-  /* #nav-sp{
-    display: none;
-  } */
  
   #nav-sp nav a {
     display: block;
