@@ -84,8 +84,8 @@ sp用のスタイル
   
   
   #nav-pc {
-    display: block;
-    
+  
+    display: none;
   }
 
 
@@ -97,14 +97,6 @@ sp用のスタイル
     border: none;
   
   }
-
-  #menu-sp img{
-    display: none;
-  }
-
-
-
-
 
   /* 初期状態、レイアウトと非表示設定 */
 
