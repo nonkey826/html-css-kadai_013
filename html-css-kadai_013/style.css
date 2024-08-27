@@ -44,6 +44,13 @@ PC用のスタイル
     display: none;
   }
 
+/* 追加 */
+
+button {
+  display: none;
+}
+
+
   /* ナビゲーションのリンクの装飾設定 */
   #nav-pc>a {
     text-decoration: none;
@@ -89,14 +96,29 @@ sp用のスタイル
   }
 
 
-  #menu-sp {
+  /* #menu-sp {
     display: block;
     background-color: transparent;
     float: right;
     padding: 0;
     border: none;
   
+  } */
+
+
+
+/* 変更箇所 */
+
+  button{
+    display: block;
+    background-color: transparent;
+    float: right;
+    padding: 0;
+    border: none;
   }
+
+
+
 
   /* 初期状態、レイアウトと非表示設定 */
 
