@@ -36,7 +36,7 @@ PC用のスタイル
     padding-top: 15px;
   }
 
-  #nav-sp{
+  #nav-sp {
     display: none;
   }
 
@@ -109,7 +109,7 @@ sp用のスタイル
 
 /* 変更箇所 */
 
-  button{
+  #menu-sp {
     display: block;
     background-color: transparent;
     float: right;
